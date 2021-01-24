@@ -1,12 +1,7 @@
 # jpa02-pranav01acharya
 
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f20/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f20/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-w21/jpa02-pranav01acharya
 
 
 On Heroku: https://jpa02-pranavacharya.herokuapp.com
